@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Showrav Saha.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **Wipro, As an IT Support Engineer.**
-
+<!-- - 🔭 I’m currently working on **Wipro, As an IT Support Engineer.**
+ -->
 - 👍 Love to learn **New technologies.**
 
 - 👯 I’m looking for an **entry level job opportunity in software development field.**
