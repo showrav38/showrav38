@@ -5,7 +5,7 @@
  -->
 - 👍 Love to learn **New technologies.**
 
-- 👯 I’m looking for an **entry level job opportunity in software development field.**
+- 👯 I’m looking for an another **entry level job opportunity in software development field.**
 
 - ✔ Comfortable with **Javascript,react.js,Node.js,Express.js**
 
