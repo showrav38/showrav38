@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Showrav Saha.</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **Wipro, As an Software Engineer.**
+- 🔭 I’m currently working in **Wipro, As a Software Engineer.**
 
 - 👍 Love to learn **New technologies.**
 
