@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Showrav Saha.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 
-<!-- - 🔭 I’m currently working on **Wipro, As an IT Support Engineer.**
+<!-- - 🔭 I’m currently working on **Wipro, As an Software Engineer.**
  -->
 - 👍 Love to learn **New technologies.**
 
-- 👯 I’m looking for an another **entry level job opportunity in software development field.**
-
-- ✔ Comfortable with **Javascript,react.js,Node.js,Express.js**
+- ✔ Comfortable with **C#, Python, Javascript, dot Net, react.js, Node.js, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
