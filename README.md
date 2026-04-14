@@ -15,7 +15,7 @@
 - 🕹️ Implemented custom **RL environments** from scratch, DQN agent achieved **100 consecutive successful episodes**
 - 💻 2+ years professional experience in **full-stack development** at Wipro and Codise
 - 🔍 Looking for a **Werkstudent position** (20h/week) in ML, Data Science, or AI Engineering
-- 📍 Based in **Bavaria, Germany**, available on-site or remote
+- 📍 Based in **Bavaria, Germany**, available on-site or hybrid, remote anywhere in Germany
 
 <br/>
 
