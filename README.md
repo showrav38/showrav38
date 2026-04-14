@@ -8,7 +8,7 @@
   </a>
 </p>
 
----
+<br/>
 
 - 🎓 Master's student in **AI Engineering of Autonomous Systems** at TH Ingolstadt
 - 🤖 Built deep learning research comparing **9 architectures** — ResNet achieved **99.18% accuracy** on MNIST
@@ -17,7 +17,7 @@
 - 🔍 Looking for a **Werkstudent position** (20h/week) in ML, Data Science, or AI Engineering
 - 📍 Based in **Bavaria, Germany** — available on-site or remote
 
----
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -42,10 +42,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&show_icons=true&locale=en&layout=compact&theme=default" alt="showrav38"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showrav38&show_icons=true&theme=default" alt="showrav38"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&layout=compact&theme=default" alt="showrav38"/>
 </p>
