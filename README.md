@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=showrav38&show_icons=true&theme=default&cache_seconds=1800" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showrav38&show_icons=true&theme=default&count_private=true&hide_border=true" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&layout=compact&theme=default&cache_seconds=1800" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&layout=compact&hide_border=true&count_private=true" width="400"/>
 </p>
