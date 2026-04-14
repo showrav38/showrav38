@@ -18,9 +18,17 @@
 - 📍 Based in **Bavaria, Germany**, available on-site or hybrid, remote anywhere in Germany
 
 <br/>
+### 📌 Featured Projects
+
+| Project | Description | Repo |
+|---|---|---|
+| **ML Model Complexity Analysis** | Compared 9 architectures on MNIST and Adult Income. ResNet achieved 99.18% accuracy with 7x fewer parameters than VGG. | [View](https://github.com/showrav38/ML-Model-Complexity) |
+| **RL Agents — JungleEscape & DQN** | Custom OpenAI Gymnasium environments with Q-learning and DQN agents. 100 consecutive successful episodes achieved. | [View](https://github.com/showrav38/RL-Agents-Gymnasium) |
+| **CarBd.com — Car Ordering Platform** | Full-stack e-commerce platform with authentication, admin dashboard and order management. Live on Netlify. | [View](https://carbdwebapp.netlify.app) |
+| **Mini CNN Framework — Edge Computing** | CNN inference framework in C++17 with im2col optimisation achieving 2.7x speedup. | Private |
 
 ### 🛠️ Tech Stack
-
+<br/>
 **ML & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
