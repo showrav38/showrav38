@@ -46,5 +46,5 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&show_icons=true&locale=en&layout=compact" alt="showrav38" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&show_icons=true&locale=en&layout=compact" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showrav38&" alt="showrav38" /></p>
