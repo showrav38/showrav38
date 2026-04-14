@@ -11,11 +11,11 @@
 <br/>
 
 - 🎓 Master's student in **AI Engineering of Autonomous Systems** at TH Ingolstadt
-- 🤖 Built deep learning research comparing **9 architectures** — ResNet achieved **99.18% accuracy** on MNIST
-- 🕹️ Implemented custom **RL environments** from scratch — DQN agent achieved **100 consecutive successful episodes**
+- 🤖 Built deep learning research comparing **9 architectures**, ResNet achieved **99.18% accuracy** on MNIST
+- 🕹️ Implemented custom **RL environments** from scratch, DQN agent achieved **100 consecutive successful episodes**
 - 💻 2+ years professional experience in **full-stack development** at Wipro and Codise
 - 🔍 Looking for a **Werkstudent position** (20h/week) in ML, Data Science, or AI Engineering
-- 📍 Based in **Bavaria, Germany** — available on-site or remote
+- 📍 Based in **Bavaria, Germany**, available on-site or remote
 
 <br/>
 
@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=showrav38&show_icons=true&theme=default" alt="showrav38"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showrav38&show_icons=true&theme=default&cache_seconds=1800" alt="showrav38" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&layout=compact&theme=default" alt="showrav38"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&layout=compact&theme=default&cache_seconds=1800" alt="showrav38" width="400"/>
 </p>
