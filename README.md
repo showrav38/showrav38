@@ -1,53 +1,14 @@
-<h1 align="center">Hi 👋, I'm Showrav Saha</h1>
-<h3 align="center">M.Eng AI Engineering of Autonomous Systems @ TH Ingolstadt</h3>
-<h4 align="center">Machine Learning · Deep Learning · Reinforcement Learning · Full-Stack Development</h4>
-
-<p align="center">
-  <a href="https://linkedin.com/in/showravsaha38" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
+<h1 align="center">Hi 👋, I'm Showrav Saha.</h1>
+<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
+- 🔭 I’m currently working in **Wipro, As a Software Engineer.**
+- 👍 Love to learn **New technologies.**
+- ✔ Comfortable with **C#, Python, Javascript, dot Net, react.js, Node.js, Django**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/showravsaha38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showravsaha38" height="30" width="40" /></a>
+<a href="https://fb.com/showrav38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="showrav38" height="30" width="40" /></a>
 </p>
-
-<br/>
-
-- 🎓 Master's student in **AI Engineering of Autonomous Systems** at TH Ingolstadt
-- 🤖 Built deep learning research comparing **9 architectures**, ResNet achieved **99.18% accuracy** on MNIST
-- 🕹️ Implemented custom **RL environments** from scratch, DQN agent achieved **100 consecutive successful episodes**
-- 💻 2+ years professional experience in **full-stack development** at Wipro and Codise
-- 🔍 Looking for a **Werkstudent position** (20h/week) in ML, Data Science, or AI Engineering
-- 📍 Based in **Bavaria, Germany**, available on-site or remote
-
-<br/>
-
-### 🛠️ Tech Stack
-
-**ML & AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Full-Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
-<br/>
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/showrav38">
-    <img src="https://img.shields.io/github/followers/showrav38?label=Followers&style=social" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&show_icons=true&locale=en&layout=compact" alt="showrav38" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showrav38&" alt="showrav38" /></p>
