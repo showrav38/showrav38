@@ -44,11 +44,10 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=showrav38&show_icons=true&theme=default&count_private=true&hide_border=true" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrav38&layout=compact&hide_border=true&count_private=true" width="400"/>
+  <a href="https://github.com/showrav38">
+    <img src="https://img.shields.io/github/followers/showrav38?label=Followers&style=social" />
+  </a>
 </p>
