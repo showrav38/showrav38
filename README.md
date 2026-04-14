@@ -18,6 +18,7 @@
 - 📍 Based in **Bavaria, Germany**, available on-site or hybrid, remote anywhere in Germany
 
 <br/>
+
 ### 📌 Featured Projects
 
 | Project | Description | Repo |
