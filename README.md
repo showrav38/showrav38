@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Showrav Saha</h1>
 <h3 align="center">M.Eng AI Engineering of Autonomous Systems @ TH Ingolstadt</h3>
-<h4 align="center">Machine Learning · Deep Learning · Reinforcement Learning · Full-Stack Development</h4>
+<h4 align="center">Machine Learning · Deep Learning · Reinforcement Learning · Robotics · Full-Stack Development</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/showravsaha38" target="blank">
